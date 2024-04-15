@@ -26,6 +26,7 @@ body .massege {
     cursor: pointer;
 }
 
+
 ul {
     list-style: none;
 
@@ -561,12 +562,17 @@ right: 20px;
 }
 .footer .boxs .box-11 {
   text-align: center;
+  overflow: hidden;
 }
 .footer .boxs .box-11 p {
    
     margin: auto; ;
 margin-top: 20px;
 margin-bottom: 1rem;
+}
+.footer .boxs .box-11 img {
+    overflow: hidden;
+    margin: 13px;
 }
 }
 .container .box-12 i {

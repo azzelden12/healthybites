@@ -8,9 +8,9 @@ menu.onclick = function () {
 const navEl = document.querySelector('.containe');
 
 window.addEventListener('scroll', () => {
-    if (window.scrollY >= 56) {
+    if (window.scrollY >= 40) {
         navEl.classList.add('scroll');
-    }else if (window.scrollY < 56) {
+    }else if (window.scrollY < 40) {
         navEl.classList.remove('scroll')
     }
 });
