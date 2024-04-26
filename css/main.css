@@ -286,6 +286,7 @@ background-color: transparent
     justify-content: center;
     margin-bottom: 40px;
     margin-top: 2rem;
+  
 }
 
 .card .title h1 {
@@ -332,7 +333,7 @@ background-color: transparent
 
 .box-card .title-2 {
     margin-top: 10px;
-
+margin-left: auto;
 }
 
 .box-card .title-2 h1 {
